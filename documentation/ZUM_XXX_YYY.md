@@ -2,7 +2,7 @@
 # Cím
 
 
-ez a változás
+a következő részben ellenőrizzük hogy tovább olvasson:
 ```forrás
  if sy-subrc=0.
     continue.
@@ -10,7 +10,9 @@ ez a változás
  
  ```
 
-*oszlop1* | *oszlop2* |
+hibalista:
+
+*sorszám* | *leírás* |
 --------|---------|
 1 | valmi1 |
 2 | még valmi más |
